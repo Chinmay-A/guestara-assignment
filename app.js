@@ -20,7 +20,7 @@ app.get('/',(req,res)=>{
 // forwrard the request for the api to the router
 app.use('/api',APIrouter);
 
-app.listen(process.env.PORT);
+//app.listen(process.env.PORT);
 
 console.log(`Serving app at: http://127.0.0.1:${process.env.PORT}`)
 
