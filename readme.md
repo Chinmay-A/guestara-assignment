@@ -11,5 +11,5 @@ Please follow the following steps to run the app locally:
    - My URI is embedded in the environment of my deployed app on Vercel and present on my local machine
 
 5. Run the command 'npm install' to install all dependencies
-6. Run the command 'node app.js' to start the server
+6. Run the command 'node index.js' to start the server
 7. Follow the url logged on the terminal to reach the home of the app
