@@ -22,6 +22,6 @@ app.use('/api',APIrouter);
 
 app.listen(process.env.PORT);
 
-module.exports=app;
-
 console.log(`Serving app at: http://127.0.0.1:${process.env.PORT}`);
+
+module.exports=app;
